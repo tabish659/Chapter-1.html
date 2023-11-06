@@ -1,22 +1,36 @@
-### AL ###
-#Template for AL projects for Dynamics 365 Business Central
-#launch.json folder
-.vscode/
-#Cache folder
-.alcache/
-#Symbols folder
-.alpackages/
-#Snapshots folder
-.snapshots/
-#Testing Output folder
-.output/
-#Extension App-file
-*.app
-#Rapid Application Development File
-rad.json
-#Translation Base-file
-*.g.xlf
-#License-file
-*.flf
-#Test results file
-TestResults.xml
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>chapter - 1</title>
+  
+</head>
+<h1>food where does it come from</h1>
+<body>
+<h1>Key Words</h1>
+</body>
+<p>Ingredients     : Materials needed to prepare food items</p>
+<p>Edible part     : Part of plant that can be eaten</p>
+<p>Pulses          : Seeds pf some crops like gram. oeas, moong</p>
+<p>Cereals         : Seeds of grass e.g crops e.g wheat, rice, maize yellow part of egg</p>
+<p>Yolk            : Yellow part of egg</p>
+<p>Nectar          : Sugary fluid present in flowers</p>
+<p>Autotrophs      : oganoisms which can prepare their own food</p>
+<p>Heterotrophs    : organisms which depand on others orginisms for food</p>
+<p>Herivores       : Animals which eat only plants and plant products</p>
+<p>Carivores       : Animals which eat others animals</p>
+<p>omnivores       : Animals which eat both plants and animals.</p>
+
+<h1>Think and answer</h1>
+
+<p>Q.1    what are materials need to prepare food items called?</p>
+<p>Answer:
+Ingredients
+</p>
+<p>Q.2    What ingredients are used to prepare kheer? </p>
+<p>Answer:
+rice, milk, suger
+</p>
+</html>
